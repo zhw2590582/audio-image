@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhw2590582/AudioImage.js.git"
+    "url": "git+https://github.com/zhw2590582/audio-image.git"
   },
   "author": "Harvey Zack <laozhaochaguan@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhw2590582/AudioImage.js/issues"
+    "url": "https://github.com/zhw2590582/audio-image/issues"
   },
-  "homepage": "https://github.com/zhw2590582/AudioImage.js#readme",
+  "homepage": "https://github.com/zhw2590582/audio-image#readme",
   "devDependencies": {
     "@babel/core": "^7.7.2",
     "@babel/plugin-external-helpers": "^7.2.0",
