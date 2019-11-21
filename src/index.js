@@ -22,6 +22,14 @@ export default class AudioImage {
     //
   }
 
+  del(index) {
+    //
+  }
+
+  clean() {
+    //
+  }
+
   load(buf) {
     //
   }
