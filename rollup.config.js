@@ -11,8 +11,8 @@ const isProd = process.env.NODE_ENV === 'production';
 export default {
   input: 'src/index.js',
   output: {
-    name: 'Dida',
-    file: 'dist/dida.js',
+    name: 'AudioImage',
+    file: 'dist/audioImage.js',
     format: 'umd',
     sourcemap: !isProd,
   },
@@ -45,7 +45,7 @@ export default {
         output: {
           preamble:
             '/*!\n' +
-            ` * Dida.js v${version}\n` +
+            ` * audioImage.js v${version}\n` +
             ` * Github: ${homepage}\n` +
             ` * (c) 2017-${new Date().getFullYear()} Harvey Zack\n` +
             ' * Released under the MIT License.\n' +
